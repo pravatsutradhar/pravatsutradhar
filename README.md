@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Pravat Sharma. I have 5 years of experience in WordPress, Woocommerce, Shopify, And Wix Website development. I have Completed 200+ Projects for 30+ countries' 60+ clients at various marketplaces. MY SKILL AREAS: HTML5, CSS3, JavaScript, jQuery, PHP, MySQL. WordPress Website Design and Development Woocommerce Store Development. Elementor And Elementor Pro Website. Custom Theme And Plugin Development. Shopify Store Design and Development. Wix Website Design and Redesign. Website Cloner, and CRM Expert. High Converting Landing Page Design.
+Hi, I am Pravat Sharma. I have 2 years of experience in MERN Strack, Laravel, WordPress, Woocommerce, Shopify, And Wix Website development. I have Completed 200+ Projects for 30+ countries' 60+ clients at various marketplaces. MY SKILL AREAS: HTML5, CSS3, JavaScript, jQuery, PHP, MySQL, Node Js, MongoDB, React Js, Next Js. WordPress Website Design and Development Woocommerce Store Development. Elementor And Elementor Pro Website. Custom Theme And Plugin Development. Shopify Store Design and Development. Wix Website Design and Redesign. Website Cloner, and CRM Expert. High Converting Landing Page Design.
 
 
 ## 🌐 Socials:
